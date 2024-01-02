@@ -52,7 +52,7 @@ print(x)
 
 ## Output:
 ![image](https://github.com/vigneshvickyu/LU-Decomposition/assets/151948835/be119f1c-8a41-40b4-b242-19064ffb1a62)
-
+## Output:
 ![image](https://github.com/vigneshvickyu/LU-Decomposition/assets/151948835/545d225c-e1d8-4dad-a05c-7a509afbd462)
 
 
