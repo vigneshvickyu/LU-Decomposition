@@ -51,7 +51,9 @@ x=lu_solve((lu,piv),B)
 print(x)
 
 ## Output:
-![image](https://github.com/vigneshvickyu/LU-Decomposition/assets/151948835/be119f1c-8a41-40b4-b242-19064ffb1a62)
+![Screenshot 2024-01-02 231321](https://github.com/vigneshvickyu/LU-Decomposition/assets/151948835/94cac41b-0ca8-4ef1-bb6a-629782a861f0)
+
+
 
 
 
